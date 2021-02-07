@@ -33,6 +33,8 @@ body {
 	line-height: 1;
 }
 
+body { zoom:90% }
+
 ol, ul {
 	list-style: none;
 }
